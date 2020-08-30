@@ -2,7 +2,9 @@
 title: "About"
 permalink: /about/
 header:
-    image: "/images/about.png"
+  image: "/images/zakim.jpg"
 ---
 
-I'm a  senior backend developer with 5 years of experience , writing the web services and APIs used by front-end developers and mobile application developers, server-side web application logic as well as the integration of the front-end part.
+I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+
+Etc, etc, etc
