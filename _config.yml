@@ -107,6 +107,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SunnyKumar2213"
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/sunykumar"
     
 
 # Site Footer
