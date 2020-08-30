@@ -1,7 +1,9 @@
 ---
 title: "Investor Dashboard"
-tags: [(Nodejs , Redux ,MongoDB, MySQL,JSON Web Token]
-
+tags: [Nodejs , Redux ,MongoDB, MySQL,JSON Web Token]
+header:
+  image: "/images/perceptron/percept.jpg"
+excerpt: "Nodejs , Redux ,MongoDB, MySQL,JSON Web Token--"
 mathjax: "true"
 ---
 
